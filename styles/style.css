@@ -22,10 +22,16 @@ body{
 .cabecalho{
     padding: 2% 0% 0% 15%;
 }
+
 .cabecalho__menu{
     display: flex;
     gap: 40px;
 }
+
+#burguer {
+
+}
+
 .cabecalho__menu__link{
     font-family: var(--fonte-secundaria);
     font-size: 1.5rem;
